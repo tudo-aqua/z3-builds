@@ -4,5 +4,6 @@ This repository holds build artifacts for [Z3](https://github.com/Z3Prover/z3) t
 
 ### Artifact List
 
+- Z3 4.8.17 for MacOS on AArch64
 - Z3 4.8.16 for MacOS on AArch64
 - Z3 4.8.15 for MacOS on AArch64
